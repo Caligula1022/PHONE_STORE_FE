@@ -76,5 +76,5 @@
     "postcss-cli": "^8.3.1",
     "react-router-sitemap": "^1.2.0"
   },
-  "proxy": "https://sheltered-temple-93413.herokuapp.com"
+  "proxy": "https://sheltered-temple-93413.herokuapp.com/api"
 }
